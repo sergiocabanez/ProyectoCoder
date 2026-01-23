@@ -1,0 +1,29 @@
+
+
+
+/* header*/
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+
+    max-width: 50vh;
+
+
+}
+}
+
+
+
+
+.index-header{
+    background-image: url(../img/backgoundHeader.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+}
+
